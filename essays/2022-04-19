@@ -1,0 +1,42 @@
+---
+layout: essay
+type: essay
+title: E5 My experience with Ass 2
+# All dates must be YYYY-MM-DD format!
+date: 2022-04-19
+labels:
+  - experience
+---
+
+1.	Provide a brief introduction to the assignment along with a link to this page for further details
+We are asking you to create a login and registration page before generating the invoice in this assignment. We must also ensure that errors such as user email format, password case sensitivity, and user email existence are validated. For the registration page, we need to do even more validation, such as ensuring that when they create their user information, it does not already exist, that the repeat password is the same, and that the username can only be letters...And to generate the invoice, I need to make sure the user stored data is correct and stored in the server after they login/register.
+
+2.	What did you learn from this assignment?
+For my website, I learned how to think more precisely and calmly. For instance, I must consider all validation for the login/register page. In addition, small details, such as having their name on the invoice, can help to improve the user experience. 
+I also improved my coding skills, I knew more about query string and how to properly use function to make my server looks more clean.
+
+3.	Did you work with a partner? Assign an estimated percentage on the amount 
+each team member contributed to the assignment (including yourself).
+I work on myself.
+
+4.	How did you get help when you needed it? What did you need help with?
+I'll start by looking through the lab and Ass2 examples to see if there's any sample code that might be useful. If I try the code and still can't figure it out, I'll consult Professor Port. 
+I discovered that most of the time I require assistance with code errors, and this is always due to minor errors, such as a missing "typeof" or a var name that is incorrect. 
+
+5.	 How was developing this assignment different than assignment #1?
+I need to think about this assignment more carefully. I need to understand how my page path works and what code or functions I should use for various purposes. 
+It is not like assignment 1, where there is only one path, which is to purchase and then generate an invoice. This assignment includes a variety of paths, including purchase-login, login-register, register-invoice, and login-invoice.
+I need to fully comprehend what my code means. Because I'm generating everything on my server, which has a lot of code, if I don't understand what it means, an error may occur, preventing me from moving forward.
+
+6.	Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging
+a)	I spend 20% of my time thinking about how to do something. I discovered that drawing a mindmap or a relationship graph helps me clear my mind, generate more ideas, and generate things more efficiently.
+b)	I spend 40% of the time writing code including the time asking for help
+c)	I spend 40% of the time testing and debugging 
+
+7.	Describe what worked well with this project? What did not work well?
+I created a mind map for this assignment based on the instructions, and it has proven to be extremely beneficial in terms of providing a big picture and letting me know what I am going to do ahead of time.
+Something that did not work well was not spending too much time looking for errors. I spent far too much time and effort trying to fix the code. Then I asked Professor Port for assistance because it is the most efficient way to solve the problem and I can also learn something from it.
+
+8.	If you could go back in time and do things differently, what would you do differently?
+I would read the instructions more carefully because I did miss a few minor details that counted toward my grade. 
+Also, before I begin, I will make sure to clear out the server and any unnecessary codes.
